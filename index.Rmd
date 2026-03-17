@@ -1,7 +1,7 @@
 ---
 title: "IAVS-LAC section"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  This website, managed by the Steering committee of the Latin America and the Carribean section of the International Association for Vegetation Science, will be used to share the most important information about our community"
 site: distill::distill_website
 ---
 
