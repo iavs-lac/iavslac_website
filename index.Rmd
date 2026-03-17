@@ -5,6 +5,18 @@ description: |
 site: distill::distill_website
 ---
 
+
+## Purpose of the section
+
+Historically, vegetation science from the region Latin America and the Carribean has been largely understudied, and much of the science comes from researchers from other regions.
+The IAVS-LAC section aim at promoting vegetation science in the region, and to re-equilibrate the relationships between regional and global researchers.
+
+## Steering Committee
+
+
+## Annual Reports
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
