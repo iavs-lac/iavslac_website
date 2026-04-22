@@ -7,6 +7,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Blog"
+      href: https://iavs-lac.github.io/iavslac_blog/
     - text: "About"
       href: about.html
 output: distill::distill_article
